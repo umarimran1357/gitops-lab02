@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Main branch udated version
+=======
+Feature branch version
+>>>>>>> feature/conflict
